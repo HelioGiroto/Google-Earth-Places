@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>7 Igrejas</name>
+	<gx:CascadingStyle kml:id="__managed_style_2A6D76455816B6339E95">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_183F51AF2416B6339E95">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_09C3BABEFD16B6339E95">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_183F51AF2416B6339E95</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2A6D76455816B6339E95</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0AC571C06816B6240589">
+		<name>Éfeso</name>
+		<LookAt>
+			<longitude>27.3417333652095</longitude>
+			<latitude>37.94089495445571</latitude>
+			<altitude>14.52470468560078</altitude>
+			<heading>1.049999999885723</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>503.2240642051329</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C3BABEFD16B6339E95</styleUrl>
+		<Point>
+			<coordinates>27.34251065407357,37.94099315536351,30.68854476347628</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="055358D38A16B626E3A6">
+		<name>Esmirna</name>
+		<LookAt>
+			<longitude>27.13354296011792</longitude>
+			<latitude>38.4833715441306</latitude>
+			<altitude>74.43313196326702</altitude>
+			<heading>1.049941145886805</heading>
+			<tilt>18.54672486004282</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>987.6840075205837</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C3BABEFD16B6339E95</styleUrl>
+		<Point>
+			<coordinates>27.13385619627773,38.48379957945981,77.85235673338371</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C59D5137916B627DF93">
+		<name>Pérgamo</name>
+		<LookAt>
+			<longitude>27.18235344434683</longitude>
+			<latitude>39.11629702140176</latitude>
+			<altitude>58.55149033632385</altitude>
+			<heading>1.049849944084043</heading>
+			<tilt>20.8771525327449</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1046.245735298144</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C3BABEFD16B6339E95</styleUrl>
+		<Point>
+			<coordinates>27.18300995617237,39.11764621931601,59.49671895561816</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FAA79ED6916B628B788">
+		<name>Tiatira</name>
+		<LookAt>
+			<longitude>27.83757249406518</longitude>
+			<latitude>38.9180663745651</latitude>
+			<altitude>100.519368815359</altitude>
+			<heading>1.049915462603217</heading>
+			<tilt>26.90004517003478</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>256.8848200689172</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C3BABEFD16B6339E95</styleUrl>
+		<Point>
+			<coordinates>27.83702779032537,38.91777083401132,100.3224661230087</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A6860F74A16B629EC1F">
+		<name>Sardes</name>
+		<LookAt>
+			<longitude>28.04004385929314</longitude>
+			<latitude>38.48808643713232</latitude>
+			<altitude>111.0519524926803</altitude>
+			<heading>1.049722279403539</heading>
+			<tilt>20.95293292413082</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>476.7087514719606</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C3BABEFD16B6339E95</styleUrl>
+		<Point>
+			<coordinates>28.0406486453174,38.4886390645505,108.7474251240679</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FB9E22F0F16B63028D3">
+		<name>Filadélfia</name>
+		<LookAt>
+			<longitude>28.52031676149167</longitude>
+			<latitude>38.35041359086966</latitude>
+			<altitude>202.0060085573864</altitude>
+			<heading>1.049824473162905</heading>
+			<tilt>22.91634314211125</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>440.1831726409</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C3BABEFD16B6339E95</styleUrl>
+		<Point>
+			<coordinates>28.51950080502869,38.35025140136908,205.8874697102775</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08DF061F2A16B631A522">
+		<name>Laodicéia</name>
+		<LookAt>
+			<longitude>29.10783331269401</longitude>
+			<latitude>37.83590779342207</latitude>
+			<altitude>287.2178140595844</altitude>
+			<heading>1.050917068593405</heading>
+			<tilt>20.91963070409486</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>164.2686511600368</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C3BABEFD16B6339E95</styleUrl>
+		<Point>
+			<coordinates>29.10829160723686,37.83601901433932,285.8870544285103</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
